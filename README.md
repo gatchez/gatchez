@@ -73,7 +73,7 @@
 ### 🎭 **Hacker Mindset**
 - **OSINT** and vulnerability analysis
 - **Exploit research** & testing
-- **Red team** simulationsh
+- **Red team** simulations
 - **Defensive** & mitigation strategies
 
 ### 🛡️ **Defense Strategies**
